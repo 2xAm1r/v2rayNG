@@ -1,5 +1,4 @@
 /*
- * Generated with <3 by /*
  * Generated with <3 by Dckuino.js, an open source project !
  */
 
