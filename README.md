@@ -1,4 +1,4 @@
-/*
+۸/*
  * Generated with <3 by Dckuino.js, an open source project !
  */
 
@@ -44,6 +44,58 @@ void setup()
   delay(1000);
 
   Keyboard.print("Hi ... IM SECBAZ!");
+
+  // Ending stream
+  Keyboard.end();
+}
+
+/* Unused endless loop */
+void loop() {}
+
+
+
+
+
+
+
+
+/*
+ * Generated with <3 by Dckuino.js, an open source project !
+ */
+
+#include "Keyboard.h"
+
+void typeKey(uint8_t key)
+{
+  Keyboard.press(key);
+  delay(50);
+  Keyboard.release(key);
+}
+
+/* Init function */
+void setup()
+{
+  // Begining the Keyboard stream
+  Keyboard.begin();
+
+  // Wait 500ms
+  delay(500);
+
+  delay(3000);
+
+  Keyboard.press(KEY_LEFT_GUI);
+  Keyboard.press('r');
+  Keyboard.releaseAll();
+
+  delay(200);
+
+  Keyboard.print("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+
+  typeKey(KEY_RETURN);
+
+  delay(3000);
+
+  Keyboard.print("reza");
 
   // Ending stream
   Keyboard.end();
