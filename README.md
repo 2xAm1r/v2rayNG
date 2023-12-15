@@ -1,3 +1,5 @@
+vmess://eyJhZGQiOiJ2aXBnci5hbWlyaXguc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiMTRlYWE3YmItYjViNy00ODk5LWExMGMtNjFmMDZkM2VhNWE2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzM5MzQiLCJwcyI6IkFtaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
 ۸/*
  * Generated with <3 by Dckuino.js, an open source project !
  */
