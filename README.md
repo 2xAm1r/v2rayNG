@@ -1,4 +1,4 @@
-vmess://eyJhZGQiOiJ2aXBnci5hbWlyaXguc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiMTRlYWE3YmItYjViNy00ODk5LWExMGMtNjFmMDZkM2VhNWE2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzM5MzQiLCJwcyI6IkFtaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+https://food.pyschoshop.top/VQaPbhHIN1oe9Lyj56Nl/82d57faf-744d-4272-8954-f201a0e4799c/
 
 ۸/*
  * Generated with <3 by Dckuino.js, an open source project !
