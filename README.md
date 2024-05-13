@@ -23,3 +23,7 @@ warp://ip:port/?ifp=5-10
 
 
 https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
+
+
+
+https://sub.amirix.sbs/fyKm15Wax30S7To9zUE503kYUgHk/f0c516dc-aba7-4e71-8484-337861c6a8ad/#abvavi
