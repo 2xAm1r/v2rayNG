@@ -22,10 +22,4 @@ warp://ip:port/?ifp=5-10
 
 
 
-
-Sms Bomber or call bomber 
-
-
-git clone https://github.com/esfelurm/iran-bomber
-cd iran-bomber
-go run sms.go
+https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
