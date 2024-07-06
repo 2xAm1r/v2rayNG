@@ -20,3 +20,4 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/
 warp://ip:port/?ifp=5-10
 
 
+https://drive.google.com/file/d/1kdHzrxMM39bJ3zBdERpvZIT5KiZhNSw7/view?usp=drivesdk
