@@ -19,13 +19,4 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/
 
 warp://ip:port/?ifp=5-10
 
-
-https://drive.google.com/file/d/1kdHzrxMM39bJ3zBdERpvZIT5KiZhNSw7/view?usp=drivesdk
-
-
-
-https://drive.google.com/drive/folders/1q-RO37mEUoA09f_-50vBgwYeGKpXvxAf
-
-
-
-https://sub.amirix.sbs/fyKm15Wax30S7To9zUE503kYUgHk/02ba0b64-749f-4bb6-9a79-3b242b0389c2/#Amir
+https://sub.amirix.sbs/fyKm15Wax30S7To9zUE503kYUgHk/bd3e89d3-d37d-4794-bad8-ca4c7a7e5a2f/#%D8%AA%D8%B3%D8%AA
