@@ -13,11 +13,11 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/
 
 در ادامه بهترین ایپی و پورتی که داده رو کپی میکنید و داخل متن زیر پیست میکنید جای ip:port و کل متن رو کپی میکنید و داخل برنامه هیدیافی نکست از طریف ایمپورت کردن پروفایل میزنید و لذت میبرید
 
-تبریک میگم شما تونستید برای خودتون وی پی ان کرک 
-
-
-https://sub.soundcloudxgirl.shop/fyKm15Wax30S7To9zUE503kYUgHk/043a9f5d-54c7-445d-bcb9-d053d4536503/#IranSlot-1
+تبریک میگم شما تونستید برای خودتون وی پی ان 
 
 
 
 nano /opt/hiddify-manager/.venv/lib/python3.10/site-packages/hiddifypanel/panel/user/templates/base_xray_config.json.j2
+
+88.198.38.130
+7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
